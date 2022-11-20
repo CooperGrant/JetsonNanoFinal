@@ -6,9 +6,9 @@ This code is designed to identify the type of construction tool in a given image
 
 This project utilizes the jetson-inference library to identify the tools. This algorithm can recognize up to 1000 different classes of objects, but for this project, it has been specifically trained for the use of identifying construction tools like hammers and power drills.
 
-![image of hammer that can be identified by this program]!(https://i.imgur.com/tJtDgS6.jpg)
+![image of hammer that can be identified by this program](https://i.imgur.com/tJtDgS6.jpg)
 
-![image of power drill that can also be identified by this program]!(https://i.imgur.com/SPPS46Z.jpg)
+![image of power drill that can also be identified by this program](https://i.imgur.com/SPPS46Z.jpg)
 
 
 ## Running this project
